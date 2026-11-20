@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>DialFlow</title><link rel="stylesheet" href="dashboard.css"></head>
+<body>
+<div class="app" id="app">
+  <aside class="rail">
+    <div class="brand" id="brand"></div>
+    <nav id="nav"></nav>
+    <div class="rail-foot" id="railFoot"></div>
+  </aside>
+  <div class="main">
+    <header class="top" id="top"></header>
+    <main id="view"></main>
+  </div>
+</div>
+<aside class="drawer" id="drawer"></aside><div class="scrim" id="scrim"></div>
+<input type="file" id="fCsv" accept=".csv,.txt,text/csv" hidden>
+<input type="file" id="fDnc" accept=".csv,.txt" hidden>
+<input type="file" id="fRestore" accept=".json" hidden>
+<div class="toast" id="toast"></div>
+<script src="parse.js"></script><script src="voiceprint.js"></script><script src="dashboard.js"></script>
+</body></html>
