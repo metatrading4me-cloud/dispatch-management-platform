@@ -44,3 +44,27 @@ To be updated with the actual technologies used in the project.
 ## Developer
 
 Independently developed project focused on improving productivity in the trucking and dispatching industry.
+
+
+
+## Development Progress
+
+### Completed
+- [x] Initial Chrome extension developed
+- [x] Core dashboard implemented
+- [x] Lead management functionality
+- [x] Lead storage and organization
+- [x] Automated calling functionality
+
+### In Progress
+- [ ] Improve automated dialer reliability
+- [ ] Expand carrier lookup features
+- [ ] Improve dashboard UI and user experience
+- [ ] Further testing and optimization
+
+### Future Development
+- [ ] Enhance lead generation capabilities
+- [ ] Add more dispatching workflow automation
+- [ ] Improve overall platform performance
+- [ ] Prepare for a stable production release
+
